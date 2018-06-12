@@ -1,3 +1,4 @@
+#Artistic program
 from turtle import *
 import random
 b=["red","green","blue"]
